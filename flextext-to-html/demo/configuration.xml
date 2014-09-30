@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flextext2html-configuration>
+	<!--	The meta-language is currently just the language of the title of the text.
+			Here and throughout, what is in the 'lang' attribute should match what is 
+			in the 'lang' attributes in the FlexText file. -->
+	<meta-language lang="en"/>
+	<!--	This is line of text forms (type="txt") in the Ishkashimi IPA format.
+			The text direction of the interlinear display matches the text
+			direction of the first <line> element. Since this writing system
+			is left-to-right, the whole document will be laid out in left-to-right. -->
+	<line type="txt" writing-system="isk-Qaaa-AF-fonipa-x-Zipa"/>
+	<!--	This is a line of glosses (type="gls") in English. -->
+	<line type="gls" writing-system="en"/>
+	<!--	This is a line of morphological analysis (type="morph"). The morphological
+			analysis should be the one performed on the Ishkashimi IPA transcription
+			(baseline-writing-system). This line should show citation forms (line-type="cf").
+			Those citation forms should show Ishkashimi IPA (display-writing-system).-->
+	<line type="morph" baseline-writing-system="isk-Qaaa-AF-fonipa-x-Zipa" line-type="cf" display-writing-system="isk-Qaaa-AF-fonipa-x-Zipa" />
+	<!--	Same as above, except that these should be morphological glosses (line-type="gls")
+			in English. -->
+	<line type="morph" baseline-writing-system="isk-Qaaa-AF-fonipa-x-Zipa" line-type="gls" display-writing-system="en" />
+</flextext2html-configuration>
