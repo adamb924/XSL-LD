@@ -1,4 +1,4 @@
-===== XSL Transformations for Language Documentation =====
+# XSL Transformations for Language Documentation
 
 This is a collection of XSL transformations that I anticipate will be broadly useful for people involved in language documentation. They are tools that have been helpful in my workflow, particularly as I have generated large corpora of interlinear texts.
 
