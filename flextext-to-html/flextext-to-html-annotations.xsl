@@ -31,9 +31,9 @@ div.text {
 div.phrase {
 	display: flex;
 	flex-wrap: wrap;
+	margin-top: 1.5em;
 }
 div.word {
-	margin-bottom: 1.5em;
 }
 div.word span {
 	display: block;
@@ -85,6 +85,11 @@ div.line-number {
 		<div class="line-number">(<xsl:value-of select="count(preceding::phrase|.)"/>)</div>
 		<xsl:apply-templates/>
 	</div>
+	<xsl:if test="words/word/abg:annotation[@key='English translation']">
+		<ul>
+		<xsl:apply-templates select="words/word/abg:annotation[@key='English translation']" mode="annotation-processor"/>
+		</ul>
+	</xsl:if>
 </xsl:template>
 
 <xsl:template match="/document/interlinear-text/paragraphs/paragraph/phrases/phrase/words/word">
@@ -149,6 +154,10 @@ div.line-number {
 		<xsl:attribute name="class"><xsl:value-of select="@lang"/><xsl:text> </xsl:text><xsl:value-of select="@type"/></xsl:attribute>
 		<xsl:value-of select="text()"/>
 	</span>
+</xsl:template>
+
+<xsl:template match="abg:annotation" mode="annotation-processor">
+	<li><xsl:value-of select="."/></li>
 </xsl:template>
 
 <xsl:template match="/document/interlinear-text/languages/language" mode="writing-systems">

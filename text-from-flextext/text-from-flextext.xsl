@@ -5,6 +5,8 @@
 
 <xsl:param name="writing-system">wbl-Qaaa-AF-fonipa-x-Zipa</xsl:param>
 <xsl:param name="type">txt</xsl:param>
+<xsl:param name="include-punct">true</xsl:param>
+<xsl:param name="no-space-following">true</xsl:param>
 
 <xsl:template match="*">
 	<xsl:apply-templates/>
@@ -19,7 +21,13 @@
 	<xsl:apply-templates select="item[@type=$type and @lang=$writing-system]/text()" mode="text"/>
 </xsl:template>
 
-<xsl:template match="text()" mode="text"><xsl:value-of select="."/><xsl:text> </xsl:text></xsl:template>
+<xsl:template match="text()" mode="text">
+	<xsl:value-of select="."/>
+	<xsl:if test="$include-punct = 'true'">
+		<xsl:value-of select="ancestor::word/following-sibling::word[1]/item[@type='punct']/text()"/>
+	</xsl:if>
+	<xsl:text> </xsl:text>
+</xsl:template>
 
 <xsl:template match="text()"/>
 
