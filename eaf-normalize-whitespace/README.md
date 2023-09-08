@@ -1,7 +1,7 @@
 # eaf-normalize-whitespace.xsl
 
 ## Introduction
-This XSL transformation fixes the whitespace in EAF files: stripping out whitespace at the beginning and end of an interval, and replacing every sequence of spaces with a single space.
+Language helpers who are new to computers often have strange intuitions about the proper use of whitespace. This XSL transformation fixes the whitespace in EAF files: stripping out whitespace at the beginning and end of an interval, and replacing every sequence of spaces with a single space.
 
 ## Parameters
 There are no parameters.

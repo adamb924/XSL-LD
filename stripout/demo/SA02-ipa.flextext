@@ -1,0 +1,1816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns:abg="http://www.adambaker.org/gloss.php" version="2">
+  <interlinear-text abg:baseline-writing-system="en" abg:audio-file="file:///D:/Users/Adam/Old Documents/Ishkashimi/Recordings/SA02.wav">
+    <item type="title" lang="en">SA02</item>
+    <paragraphs>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="290" abg:annotation-end="2570">
+            <item type="segnum" lang="en">1</item>
+            <words>
+              <word abg:id="1" abg:approval-status="true">
+                <item abg:id="5156" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">xɑb</item>
+              </word>
+              <word abg:id="31" abg:approval-status="true">
+                <item abg:id="3017" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">mən</item>
+              </word>
+              <word abg:id="157" abg:approval-status="true">
+                <item abg:id="3018" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">nim</item>
+              </word>
+              <word abg:id="1490" abg:approval-status="true">
+                <item abg:id="3019" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">ajɑn</item>
+              </word>
+              <word abg:id="1135" abg:approval-status="true">
+                <item abg:id="3020" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">bek</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">خواب نام من عیان بیک</item>
+            <item type="gls" lang="en">All right. My name is Ayan Bek.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="3150" abg:annotation-end="5670">
+            <item type="segnum" lang="en">2</item>
+            <words>
+              <word abg:id="31" abg:approval-status="true">
+                <item abg:id="3017" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">mən</item>
+              </word>
+              <word abg:id="1491" abg:approval-status="true">
+                <item abg:id="3021" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">tɑt</item>
+              </word>
+              <word abg:id="157" abg:approval-status="true">
+                <item abg:id="3018" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">nim</item>
+              </word>
+              <word abg:id="1492" abg:approval-status="true">
+                <item abg:id="3022" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">zandʒirbek</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">نام پدر من زنجیر بیک</item>
+            <item type="gls" lang="en">My father's name, Zanjir Bek.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="6440" abg:annotation-end="7670">
+            <item type="segnum" lang="en">3</item>
+            <words>
+              <word abg:id="656" abg:approval-status="true">
+                <item abg:id="3023" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">qarja</item>
+              </word>
+              <word abg:id="657" abg:approval-status="true">
+                <item abg:id="3024" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">xermani</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">قریه خر منی</item>
+            <item type="gls" lang="en">Village, Xermani.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="8840" abg:annotation-end="9710">
+            <item type="segnum" lang="en">4</item>
+            <words>
+              <word abg:id="3504" abg:approval-status="true">
+                <item abg:id="15381" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">pə</item>
+              </word>
+              <word abg:id="639" abg:approval-status="true">
+                <item abg:id="3026" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">sɑlɛ</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">در سال</item>
+            <item type="gls" lang="en">In the year</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="9940" abg:annotation-end="10940">
+            <item type="segnum" lang="en">5</item>
+            <words>
+              <word abg:id="1493" abg:approval-status="true">
+                <item abg:id="3027" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">sezda</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">سیزده</item>
+            <item type="gls" lang="en">thirteen</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="11240" abg:annotation-end="12480">
+            <item type="segnum" lang="en">6</item>
+            <words>
+              <word abg:id="666" abg:approval-status="true">
+                <item abg:id="3028" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">aʃtɑd</item>
+              </word>
+              <word abg:id="154" abg:approval-status="true">
+                <item abg:id="3029" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">o</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">هشتادو</item>
+            <item type="gls" lang="en">eight...</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="12850" abg:annotation-end="14100">
+            <item type="segnum" lang="en">7</item>
+            <words>
+              <word abg:id="3504" abg:approval-status="true">
+                <item abg:id="15381" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">pə</item>
+              </word>
+              <word abg:id="639" abg:approval-status="true">
+                <item abg:id="3026" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">sɑlɛ</item>
+              </word>
+              <word abg:id="1493" abg:approval-status="true">
+                <item abg:id="3027" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">sezda</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">در سال سیزده</item>
+            <item type="gls" lang="en">In the year thirteen</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="14480" abg:annotation-end="15920">
+            <item type="segnum" lang="en">8</item>
+            <words>
+              <word abg:id="1368" abg:approval-status="true">
+                <item abg:id="3030" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">si</item>
+              </word>
+              <word abg:id="154" abg:approval-status="true">
+                <item abg:id="3029" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">o</item>
+              </word>
+              <word abg:id="95" abg:approval-status="true">
+                <item abg:id="3031" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">no</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">اه سیو نه</item>
+            <item type="gls" lang="en">thirty nine.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="16300" abg:annotation-end="19360">
+            <item type="segnum" lang="en">9</item>
+            <words>
+              <word abg:id="961" abg:approval-status="true">
+                <item abg:id="3032" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">sɛnfɛ</item>
+              </word>
+              <word abg:id="871" abg:approval-status="true">
+                <item abg:id="3033" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">se</item>
+              </word>
+              <word abg:id="161" abg:approval-status="true">
+                <item abg:id="3034" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">mədakəm</item>
+              </word>
+              <word abg:id="762" abg:approval-status="true">
+                <item abg:id="3035" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">bəlavd</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab"> صنف سوم درهمین جا خواندم</item>
+            <item type="gls" lang="en">I studied third grade.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="19750" abg:annotation-end="22180">
+            <item type="segnum" lang="en">10</item>
+            <words>
+              <word abg:id="1515" abg:approval-status="true">
+                <item abg:id="3067" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">toɣdəm</item>
+              </word>
+              <word abg:id="1495" abg:approval-status="true">
+                <item abg:id="6832" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">lajlije</item>
+              </word>
+              <word abg:id="1496" abg:approval-status="true">
+                <item abg:id="3038" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">badaxʃɑn</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">رفتم لیلیه بدخشان</item>
+            <item type="gls" lang="en">I went to the Badakhshan Dormitory.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="22910" abg:annotation-end="24440">
+            <item type="segnum" lang="en">11</item>
+            <words>
+              <word abg:id="1542" abg:approval-status="true">
+                <item abg:id="3117" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">wədakəm</item>
+              </word>
+              <word abg:id="504" abg:approval-status="true">
+                <item abg:id="3040" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">var</item>
+              </word>
+              <word abg:id="639" abg:approval-status="true">
+                <item abg:id="3026" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">sɑlɛ</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">درامونجا تاسالی</item>
+            <item type="gls" lang="en">There, until the year</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="24650" abg:annotation-end="27910">
+            <item type="segnum" lang="en">12</item>
+            <words>
+              <word abg:id="1493" abg:approval-status="true">
+                <item abg:id="3027" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">sezda</item>
+              </word>
+              <word abg:id="666" abg:approval-status="true">
+                <item abg:id="3028" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">aʃtɑd</item>
+              </word>
+              <word abg:id="154" abg:approval-status="true">
+                <item abg:id="3029" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">o</item>
+              </word>
+              <word abg:id="1493" abg:approval-status="true">
+                <item abg:id="3027" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">sezda</item>
+              </word>
+              <word abg:id="826" abg:approval-status="true">
+                <item abg:id="3041" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">tʃɛl</item>
+              </word>
+              <word abg:id="154" abg:approval-status="true">
+                <item abg:id="3029" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">o</item>
+              </word>
+              <word abg:id="1498" abg:approval-status="true">
+                <item abg:id="3042" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">aʃt</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">سیزده هشتادو سیزده چهل هشت</item>
+            <item type="gls" lang="en">Thirteen eighty... thirteen forty eight</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="28210" abg:annotation-end="29900">
+            <item type="segnum" lang="en">13</item>
+            <words>
+              <word abg:id="33" abg:approval-status="true">
+                <item abg:id="3043" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">tsə</item>
+              </word>
+              <word abg:id="1542" abg:approval-status="true">
+                <item abg:id="3117" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">wədakəm</item>
+              </word>
+              <word abg:id="1500" abg:approval-status="true">
+                <item abg:id="3045" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">fɑrɛɣ</item>
+              </word>
+              <word abg:id="199" abg:approval-status="true">
+                <item abg:id="3046" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">ʃʊd</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">از اونجا فارغ شدم</item>
+            <item type="gls" lang="en">I graduated from there.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="30130" abg:annotation-end="31420">
+            <item type="segnum" lang="en">14</item>
+            <words>
+              <word abg:id="33" abg:approval-status="true">
+                <item abg:id="3043" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">tsə</item>
+              </word>
+              <word abg:id="1495" abg:approval-status="true">
+                <item abg:id="6832" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">lajlije</item>
+              </word>
+              <word abg:id="1496" abg:approval-status="true">
+                <item abg:id="3038" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">badaxʃɑn</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">از لیلیه بدخشان</item>
+            <item type="gls" lang="en">From the Badakhshan Dormitory.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="31830" abg:annotation-end="32930">
+            <item type="segnum" lang="en">15</item>
+            <words>
+              <word abg:id="1501" abg:approval-status="true">
+                <item abg:id="3047" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">batəm</item>
+              </word>
+              <word abg:id="1502" abg:approval-status="true">
+                <item abg:id="3048" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">toɣd</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">بعد رفتم</item>
+            <item type="gls" lang="en">Then I went</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="33250" abg:annotation-end="34050">
+            <item type="segnum" lang="en">16</item>
+            <words>
+              <word abg:id="671" abg:approval-status="true">
+                <item abg:id="3049" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">kɑbʊl</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">کابل</item>
+            <item type="gls" lang="en">to Kabul.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="34580" abg:annotation-end="36270">
+            <item type="segnum" lang="en">17</item>
+            <words>
+              <word abg:id="1503" abg:approval-status="true">
+                <item abg:id="3050" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">kɑbʊləm</item>
+              </word>
+              <word abg:id="1504" abg:approval-status="true">
+                <item abg:id="3051" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">aʒda</item>
+              </word>
+              <word abg:id="360" abg:approval-status="true">
+                <item abg:id="3052" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">mɑ</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab"> در کابل هژده ما</item>
+            <item type="gls" lang="en">In Kabul for eighteen months</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="36620" abg:annotation-end="39740">
+            <item type="segnum" lang="en">18</item>
+            <words>
+              <word abg:id="752" abg:approval-status="true">
+                <item abg:id="3053" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">maktabɛ</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">اه مکتب های</item>
+            <item type="gls" lang="en">the school of</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="40250" abg:annotation-end="42120">
+            <item type="segnum" lang="en">19</item>
+            <words>
+              <word abg:id="150" abg:approval-status="true">
+                <item abg:id="3054" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">tʃiz</item>
+              </word>
+              <word abg:id="752" abg:approval-status="true">
+                <item abg:id="3053" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">maktabɛ</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">در مکتب چیز</item>
+            <item type="gls" lang="en">What... the school of...</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="42350" abg:annotation-end="44780">
+            <item type="segnum" lang="en">20</item>
+            <words>
+              <word abg:id="1506" abg:approval-status="true">
+                <item abg:id="6834" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">ʃaqɛ</item>
+              </word>
+              <word abg:id="1507" abg:approval-status="true">
+                <item abg:id="3057" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">dɑktarim</item>
+              </word>
+              <word abg:id="762" abg:approval-status="true">
+                <item abg:id="3035" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">bəlavd</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab"> یعنی شق دا کتری خواندم</item>
+            <item type="gls" lang="en">I studied in the medicine department.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="45020" abg:annotation-end="46680">
+            <item type="segnum" lang="en">21</item>
+            <words>
+              <word abg:id="33" abg:approval-status="true">
+                <item abg:id="3043" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">tsə</item>
+              </word>
+              <word abg:id="3760" abg:approval-status="true">
+                <item abg:id="16234" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">wədakɑn</item>
+              </word>
+              <word abg:id="1509" abg:approval-status="true">
+                <item abg:id="3059" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">mak</item>
+              </word>
+              <word abg:id="1510" abg:approval-status="true">
+                <item abg:id="3060" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">xɑrɛdʒ</item>
+              </word>
+              <word abg:id="22" abg:approval-status="true">
+                <item abg:id="3061" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">kəl</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">از او نجامره  بدر کردن</item>
+            <item type="gls" lang="en">They kicked me out of that.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="47590" abg:annotation-end="48320">
+            <item type="segnum" lang="en">22</item>
+            <words>
+              <word abg:id="897" abg:approval-status="true">
+                <item abg:id="3062" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">tʃun</item>
+              </word>
+              <word abg:id="3429" abg:approval-status="true">
+                <item abg:id="13187" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">mə</item>
+              </word>
+              <word abg:id="307" abg:approval-status="true">
+                <item abg:id="3841" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">nɑ</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab"> قسمیکه من</item>
+            <item type="gls" lang="en">Because I</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="48740" abg:annotation-end="51250">
+            <item type="segnum" lang="en">23</item>
+            <words>
+              <word abg:id="3016" abg:approval-status="true">
+                <item abg:id="3216" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">pul</item>
+              </word>
+              <word abg:id="154" abg:approval-status="true">
+                <item abg:id="3029" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">o</item>
+              </word>
+              <word abg:id="1513" abg:approval-status="true">
+                <item abg:id="6835" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">pajse</item>
+              </word>
+              <word abg:id="1514" abg:approval-status="true">
+                <item abg:id="3066" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">nəsvət</item>
+              </word>
+              <word abg:id="1515" abg:approval-status="true">
+                <item abg:id="3067" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">toɣdəm</item>
+              </word>
+              <word abg:id="3504" abg:approval-status="true">
+                <item abg:id="15381" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">pə</item>
+              </word>
+              <word abg:id="13" abg:approval-status="true">
+                <item abg:id="3074" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">wɑk</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">پول وپیسه نداشتم رفتم دریک</item>
+            <item type="gls" lang="en">didn't have any money. I went to</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="51630" abg:annotation-end="53470">
+            <item type="segnum" lang="en">24</item>
+            <words>
+              <word abg:id="1517" abg:approval-status="true">
+                <item abg:id="6836" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">raʃbarəm</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab"> پلوان</item>
+            <item type="gls" lang="en">a rich person.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="53550" abg:annotation-end="54400">
+            <item type="segnum" lang="en">25</item>
+            <words>
+              <word abg:id="1557" abg:approval-status="true">
+                <item abg:id="3144" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">akwakəm</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">در امو نجا</item>
+            <item type="gls" lang="en">There</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="54840" abg:annotation-end="56120">
+            <item type="segnum" lang="en">26</item>
+            <words>
+              <word abg:id="13" abg:approval-status="true">
+                <item abg:id="3074" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">wɑk</item>
+              </word>
+              <word abg:id="310" abg:approval-status="true">
+                <item abg:id="3218" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">zara</item>
+              </word>
+              <word abg:id="1520" abg:approval-status="true">
+                <item abg:id="3072" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">ʃiðət</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab"> یک ذره گر یه کردم</item>
+            <item type="gls" lang="en">I cried a little.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="56590" abg:annotation-end="58380">
+            <item type="segnum" lang="en">27</item>
+            <words>
+              <word abg:id="1520" abg:approval-status="true">
+                <item abg:id="3072" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">ʃiðət</item>
+              </word>
+              <word abg:id="33" abg:approval-status="true">
+                <item abg:id="3043" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">tsə</item>
+              </word>
+              <word abg:id="220" abg:approval-status="true">
+                <item abg:id="3712" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">wədak</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">گریه کردم در امونجا</item>
+            <item type="gls" lang="en">I cried a little there.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="58670" abg:annotation-end="61010">
+            <item type="segnum" lang="en">28</item>
+            <words>
+              <word abg:id="13" abg:approval-status="true">
+                <item abg:id="3074" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">wɑk</item>
+              </word>
+              <word abg:id="1522" abg:approval-status="true">
+                <item abg:id="3075" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">dɛgarwɑl</item>
+              </word>
+              <word abg:id="1091" abg:approval-status="true">
+                <item abg:id="3076" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">pajdɑ</item>
+              </word>
+              <word abg:id="199" abg:approval-status="true">
+                <item abg:id="3046" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">ʃʊd</item>
+              </word>
+              <word abg:id="1523" abg:approval-status="true">
+                <item abg:id="3077" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">maki</item>
+              </word>
+              <word abg:id="1524" abg:approval-status="true">
+                <item abg:id="3078" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">dzɑɣd</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">یک منصب دار پیدا شدمره گرفت</item>
+            <item type="gls" lang="en">A general was found that took me,</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="61500" abg:annotation-end="63370">
+            <item type="segnum" lang="en">29</item>
+            <words>
+              <word abg:id="982" abg:approval-status="true">
+                <item abg:id="3219" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">wʊd</item>
+              </word>
+              <word abg:id="1547" abg:approval-status="true">
+                <item abg:id="3127" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">wazɑratɛ</item>
+              </word>
+              <word abg:id="1526" abg:approval-status="true">
+                <item abg:id="3080" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">marɛf</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">برد وزارت معارف</item>
+            <item type="gls" lang="en">brought me to the Ministry of Education.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="64760" abg:annotation-end="66970">
+            <item type="segnum" lang="en">30</item>
+            <words>
+              <word abg:id="1527" abg:approval-status="true">
+                <item abg:id="3081" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">wazirɛ</item>
+              </word>
+              <word abg:id="1526" abg:approval-status="true">
+                <item abg:id="3080" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">marɛf</item>
+              </word>
+              <word abg:id="1528" abg:approval-status="true">
+                <item abg:id="3082" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">nɛwɛʃta</item>
+              </word>
+              <word abg:id="22" abg:approval-status="true">
+                <item abg:id="3061" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">kəl</item>
+              </word>
+              <word abg:id="3111" abg:approval-status="true">
+                <item abg:id="16174" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">dza</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">وزیر معارف نوشته کرد</item>
+            <item type="gls" lang="en">The Minister of Education wrote that</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="67340" abg:annotation-end="68060">
+            <item type="segnum" lang="en">31</item>
+            <words>
+              <word abg:id="728" abg:approval-status="true">
+                <item abg:id="3084" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">agar</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">اگر </item>
+            <item type="gls" lang="en">if</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="68290" abg:annotation-end="70920">
+            <item type="segnum" lang="en">32</item>
+            <words>
+              <word abg:id="3529" abg:approval-status="true">
+                <item abg:id="15727" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">xorzɑbɛtɑ</item>
+              </word>
+              <word abg:id="235" abg:approval-status="true">
+                <item abg:id="3086" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">qabul</item>
+              </word>
+              <word abg:id="1130" abg:approval-status="true">
+                <item abg:id="4245" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">ti</item>
+              </word>
+              <word abg:id="307" abg:approval-status="true">
+                <item abg:id="3841" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">nɑ</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">خورد ضابطی را قبول میکنی</item>
+            <item type="gls" lang="en">the petty officers accept you,</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="71190" abg:annotation-end="73290">
+            <item type="segnum" lang="en">33</item>
+            <words>
+              <word abg:id="690" abg:approval-status="true">
+                <item abg:id="3221" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">ʃo</item>
+              </word>
+              <word abg:id="3504" abg:approval-status="true">
+                <item abg:id="15381" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">pə</item>
+              </word>
+              <word abg:id="220" abg:approval-status="true">
+                <item abg:id="3712" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">wədak</item>
+              </word>
+              <word abg:id="762" abg:approval-status="true">
+                <item abg:id="3035" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">bəlavd</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">بره درامونجا بخوان</item>
+            <item type="gls" lang="en">Go and study there.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="73460" abg:annotation-end="75240">
+            <item type="segnum" lang="en">34</item>
+            <words>
+              <word abg:id="728" abg:approval-status="true">
+                <item abg:id="3084" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">agar</item>
+              </word>
+              <word abg:id="235" abg:approval-status="true">
+                <item abg:id="3086" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">qabul</item>
+              </word>
+              <word abg:id="1130" abg:approval-status="true">
+                <item abg:id="4245" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">ti</item>
+              </word>
+              <word abg:id="307" abg:approval-status="true">
+                <item abg:id="3841" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">nɑ</item>
+              </word>
+              <word abg:id="45" abg:approval-status="true">
+                <item abg:id="3091" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">nəst</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">اگر قبول تو نمی کنی</item>
+            <item type="gls" lang="en">If they don't accept you,</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="75490" abg:annotation-end="77030">
+            <item type="segnum" lang="en">35</item>
+            <words>
+              <word abg:id="99" abg:approval-status="true">
+                <item abg:id="3092" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">dega</item>
+              </word>
+              <word abg:id="690" abg:approval-status="true">
+                <item abg:id="3221" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">ʃo</item>
+              </word>
+              <word abg:id="80" abg:approval-status="true">
+                <item abg:id="3106" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">xe</item>
+              </word>
+              <word abg:id="491" abg:approval-status="true">
+                <item abg:id="3201" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">xɑn</item>
+              </word>
+              <word abg:id="179" abg:approval-status="true">
+                <item abg:id="3202" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">bɑ</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">بره به خانه ات</item>
+            <item type="gls" lang="en">otherwise go to your own home.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="77750" abg:annotation-end="78850">
+            <item type="segnum" lang="en">36</item>
+            <words>
+              <word abg:id="1563" abg:approval-status="false">
+                <item abg:id="3154" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">bɛlɑxɛra</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">بالا خره</item>
+            <item type="gls" lang="en">Finally,</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="79070" abg:annotation-end="81590">
+            <item type="segnum" lang="en">37</item>
+            <words>
+              <word abg:id="220" abg:approval-status="true">
+                <item abg:id="3712" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">wədak</item>
+              </word>
+              <word abg:id="3108" abg:approval-status="true">
+                <item abg:id="4254" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">aw</item>
+              </word>
+              <word abg:id="3504" abg:approval-status="true">
+                <item abg:id="15381" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">pə</item>
+              </word>
+              <word abg:id="1535" abg:approval-status="true">
+                <item abg:id="3097" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">paʃto</item>
+              </word>
+              <word abg:id="1528" abg:approval-status="true">
+                <item abg:id="3082" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">nɛwɛʃta</item>
+              </word>
+              <word abg:id="1200" abg:approval-status="true">
+                <item abg:id="3729" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">kəlɑk</item>
+              </word>
+              <word abg:id="212" abg:approval-status="true">
+                <item abg:id="3099" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">vəd</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">درامنجا به پشتونوشته کرده بود</item>
+            <item type="gls" lang="en">it was written there in Pashtu.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="81880" abg:annotation-end="83900">
+            <item type="segnum" lang="en">38</item>
+            <words>
+              <word abg:id="43" abg:approval-status="true">
+                <item abg:id="6840" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">azəm</item>
+              </word>
+              <word abg:id="260" abg:approval-status="true">
+                <item abg:id="3101" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">wan</item>
+              </word>
+              <word abg:id="30" abg:approval-status="true">
+                <item abg:id="3102" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">ke</item>
+              </word>
+              <word abg:id="98" abg:approval-status="true">
+                <item abg:id="3103" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">fɑrsi</item>
+              </word>
+              <word abg:id="1537" abg:approval-status="true">
+                <item abg:id="3104" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">tarjʊma</item>
+              </word>
+              <word abg:id="22" abg:approval-status="true">
+                <item abg:id="3061" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">kəl</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">مه اوره به فارسی ترجمه کردم</item>
+            <item type="gls" lang="en">After I translated that to Persian</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="84180" abg:annotation-end="88480">
+            <item type="segnum" lang="en">39</item>
+            <words>
+              <word abg:id="33" abg:approval-status="true">
+                <item abg:id="3043" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">tsə</item>
+              </word>
+              <word abg:id="64" abg:approval-status="true">
+                <item abg:id="5194" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">ɣɛʒdəm</item>
+              </word>
+              <word abg:id="3286" abg:approval-status="true">
+                <item abg:id="5853" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">xaj</item>
+              </word>
+              <word abg:id="3504" abg:approval-status="true">
+                <item abg:id="15381" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">pə</item>
+              </word>
+              <word abg:id="1539" abg:approval-status="true">
+                <item abg:id="3107" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">madʒburijat</item>
+              </word>
+              <word abg:id="3105" abg:approval-status="true">
+                <item abg:id="4212" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">az</item>
+              </word>
+              <word abg:id="260" abg:approval-status="true">
+                <item abg:id="3101" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">wan</item>
+              </word>
+              <word abg:id="235" abg:approval-status="true">
+                <item abg:id="3086" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">qabul</item>
+              </word>
+              <word abg:id="1009" abg:approval-status="true">
+                <item abg:id="15434" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">kənəm</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">اه من گفتم خی به مجبوریت  مه اوره قبول میکنیم</item>
+            <item type="gls" lang="en">I said, okay, I'm obliged to agree to this. </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="89460" abg:annotation-end="91600">
+            <item type="segnum" lang="en">40</item>
+            <words>
+              <word abg:id="164" abg:approval-status="true">
+                <item abg:id="3110" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">toɣdəm</item>
+              </word>
+              <word abg:id="3504" abg:approval-status="true">
+                <item abg:id="15381" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">pə</item>
+              </word>
+              <word abg:id="1495" abg:approval-status="true">
+                <item abg:id="6832" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">lajlije</item>
+              </word>
+              <word abg:id="150" abg:approval-status="true">
+                <item abg:id="3054" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">tʃiz</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">آمدم لیلیه چیز بد خ</item>
+            <item type="gls" lang="en">I went to the ... what Dormitory.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="92000" abg:annotation-end="95280">
+            <item type="segnum" lang="en">41</item>
+            <words>
+              <word abg:id="3506" abg:approval-status="true">
+                <item abg:id="15385" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">wədakət</item>
+              </word>
+              <word abg:id="1540" abg:approval-status="false">
+                <item abg:id="6843" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">baɛstɛlɑ</item>
+              </word>
+              <word abg:id="1541" abg:approval-status="true">
+                <item abg:id="3114" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">askari</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">و در همونجابه حیث عسکر</item>
+            <item type="gls" lang="en">There, as they say, soldiering.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="96100" abg:annotation-end="100190">
+            <item type="segnum" lang="en">42</item>
+            <words>
+              <word abg:id="472" abg:approval-status="true">
+                <item abg:id="3115" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">du</item>
+              </word>
+              <word abg:id="670" abg:approval-status="true">
+                <item abg:id="3116" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">sɑləm</item>
+              </word>
+              <word abg:id="472" abg:approval-status="true">
+                <item abg:id="3115" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">du</item>
+              </word>
+              <word abg:id="639" abg:approval-status="true">
+                <item abg:id="3223" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">sɑl</item>
+              </word>
+              <word abg:id="212" abg:approval-status="true">
+                <item abg:id="3099" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">vəd</item>
+              </word>
+              <word abg:id="1542" abg:approval-status="true">
+                <item abg:id="3117" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">wədakəm</item>
+              </word>
+              <word abg:id="762" abg:approval-status="true">
+                <item abg:id="3035" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">bəlavd</item>
+              </word>
+              <word abg:id="13" abg:approval-status="true">
+                <item abg:id="3074" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">wɑk</item>
+              </word>
+              <word abg:id="335" abg:approval-status="true">
+                <item abg:id="3171" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">dəv</item>
+              </word>
+              <word abg:id="185" abg:approval-status="true">
+                <item abg:id="3119" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">ham</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">یعنی دو سال  دوسال بودم درهمو نجا خواندم و یک دم </item>
+            <item type="gls" lang="en">Two years, it was two years that I studied there. Then also</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="100430" abg:annotation-end="102340">
+            <item type="segnum" lang="en">43</item>
+            <words>
+              <word abg:id="752" abg:approval-status="true">
+                <item abg:id="3053" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">maktabɛ</item>
+              </word>
+              <word abg:id="150" abg:approval-status="true">
+                <item abg:id="3054" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">tʃiz</item>
+              </word>
+              <word abg:id="1544" abg:approval-status="true">
+                <item abg:id="3120" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">dɑktari</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">مکتب شق داکتری</item>
+            <item type="gls" lang="en">the school of medicine</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="102560" abg:annotation-end="104470">
+            <item type="segnum" lang="en">44</item>
+            <words>
+              <word abg:id="150" abg:approval-status="true">
+                <item abg:id="3054" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">tʃiz</item>
+              </word>
+              <word abg:id="829" abg:approval-status="true">
+                <item abg:id="3121" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">ʃʊda</item>
+              </word>
+              <word abg:id="1495" abg:approval-status="true">
+                <item abg:id="3037" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">lajlija</item>
+              </word>
+              <word abg:id="199" abg:approval-status="true">
+                <item abg:id="3046" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">ʃʊd</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">چیز لیلیه شد</item>
+            <item type="gls" lang="en">became a dormitory.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="104970" abg:annotation-end="107300">
+            <item type="segnum" lang="en">45</item>
+            <words>
+              <word abg:id="595" abg:approval-status="true">
+                <item abg:id="3122" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">har</item>
+              </word>
+              <word abg:id="1545" abg:approval-status="true">
+                <item abg:id="3123" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">qɛdarəm</item>
+              </word>
+              <word abg:id="3111" abg:approval-status="true">
+                <item abg:id="16174" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">dza</item>
+              </word>
+              <word abg:id="22" abg:approval-status="true">
+                <item abg:id="3061" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">kəl</item>
+              </word>
+              <word abg:id="3111" abg:approval-status="true">
+                <item abg:id="16174" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">dza</item>
+              </word>
+              <word abg:id="33" abg:approval-status="true">
+                <item abg:id="3043" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">tsə</item>
+              </word>
+              <word abg:id="220" abg:approval-status="true">
+                <item abg:id="3712" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">wədak</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">هر قدر که کردم درامونجا</item>
+            <item type="gls" lang="en">As much as I tried to [come] there,</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="107530" abg:annotation-end="111490">
+            <item type="segnum" lang="en">46</item>
+            <words>
+              <word abg:id="401" abg:approval-status="true">
+                <item abg:id="6844" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">isu</item>
+              </word>
+              <word abg:id="1322" abg:approval-status="true">
+                <item abg:id="3126" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">pas</item>
+              </word>
+              <word abg:id="3504" abg:approval-status="true">
+                <item abg:id="15381" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">pə</item>
+              </word>
+              <word abg:id="1547" abg:approval-status="true">
+                <item abg:id="3127" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">wazɑratɛ</item>
+              </word>
+              <word abg:id="1548" abg:approval-status="true">
+                <item abg:id="6845" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">mɑrɛfət</item>
+              </word>
+              <word abg:id="401" abg:approval-status="true">
+                <item abg:id="6844" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">isu</item>
+              </word>
+              <word abg:id="40" abg:approval-status="true">
+                <item abg:id="3129" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">mə</item>
+              </word>
+              <word abg:id="1495" abg:approval-status="true">
+                <item abg:id="6832" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">lajlije</item>
+              </word>
+              <word abg:id="1506" abg:approval-status="true">
+                <item abg:id="6834" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">ʃaqɛ</item>
+              </word>
+              <word abg:id="1544" abg:approval-status="true">
+                <item abg:id="3120" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">dɑktari</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">پس بیاییم به وزارت معارف یا به لیلیه شقی داکتری</item>
+            <item type="gls" lang="en">that I could come from the Ministry of Education to this dormitory in the medicine department, </item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="112040" abg:annotation-end="114700">
+            <item type="segnum" lang="en">47</item>
+            <words>
+              <word abg:id="1550" abg:approval-status="true">
+                <item abg:id="3132" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">mʊntɑ</item>
+              </word>
+              <word abg:id="235" abg:approval-status="true">
+                <item abg:id="3086" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">qabul</item>
+              </word>
+              <word abg:id="1527" abg:approval-status="true">
+                <item abg:id="3081" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">wazirɛ</item>
+              </word>
+              <word abg:id="1526" abg:approval-status="true">
+                <item abg:id="3080" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">marɛf</item>
+              </word>
+              <word abg:id="235" abg:approval-status="true">
+                <item abg:id="3086" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">qabul</item>
+              </word>
+              <word abg:id="45" abg:approval-status="true">
+                <item abg:id="3091" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">nəst</item>
+              </word>
+              <word abg:id="22" abg:approval-status="true">
+                <item abg:id="3061" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">kəl</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">ولی وزیرمعارف قبول نکرد</item>
+            <item type="gls" lang="en">But the Minister of Education didn't agree.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="115290" abg:annotation-end="119570">
+            <item type="segnum" lang="en">48</item>
+            <words>
+              <word abg:id="897" abg:approval-status="true">
+                <item abg:id="3062" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">tʃun</item>
+              </word>
+              <word abg:id="702" abg:approval-status="true">
+                <item abg:id="3133" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">waxtɛ</item>
+              </word>
+              <word abg:id="1551" abg:approval-status="true">
+                <item abg:id="6846" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">nɑdɑrit</item>
+              </word>
+              <word abg:id="1552" abg:approval-status="true">
+                <item abg:id="3135" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">nɑtʃɑri</item>
+              </word>
+              <word abg:id="212" abg:approval-status="true">
+                <item abg:id="3099" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">vəd</item>
+              </word>
+              <word abg:id="3504" abg:approval-status="true">
+                <item abg:id="15381" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">pə</item>
+              </word>
+              <word abg:id="31" abg:approval-status="true">
+                <item abg:id="3017" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">mən</item>
+              </word>
+              <word abg:id="1554" abg:approval-status="true">
+                <item abg:id="3137" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">dʒeb</item>
+              </word>
+              <word abg:id="3116" abg:approval-status="true">
+                <item abg:id="4271" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">məs</item>
+              </word>
+              <word abg:id="584" abg:approval-status="true">
+                <item abg:id="3139" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">jak</item>
+              </word>
+              <word abg:id="1555" abg:approval-status="true">
+                <item abg:id="3140" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">rupija</item>
+              </word>
+              <word abg:id="45" abg:approval-status="true">
+                <item abg:id="3091" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">nəst</item>
+              </word>
+              <word abg:id="212" abg:approval-status="true">
+                <item abg:id="3099" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">vəd</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">چون وقتی ناداری وناچاری بوددر جیب مه هم یک روپیه نبود</item>
+            <item type="gls" lang="en">Because it was a time of poverty. And in my pocket I didn't have a single rupee.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="120030" abg:annotation-end="123520">
+            <item type="segnum" lang="en">49</item>
+            <words>
+              <word abg:id="1322" abg:approval-status="true">
+                <item abg:id="3126" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">pas</item>
+              </word>
+              <word abg:id="3391" abg:approval-status="true">
+                <item abg:id="6848" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">madʒburəm</item>
+              </word>
+              <word abg:id="199" abg:approval-status="true">
+                <item abg:id="3046" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">ʃʊd</item>
+              </word>
+              <word abg:id="164" abg:approval-status="true">
+                <item abg:id="3110" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">toɣdəm</item>
+              </word>
+              <word abg:id="3503" abg:approval-status="true">
+                <item abg:id="15379" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">pə</item>
+              </word>
+              <word abg:id="752" abg:approval-status="true">
+                <item abg:id="3053" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">maktabɛ</item>
+              </word>
+              <word abg:id="1541" abg:approval-status="true">
+                <item abg:id="3114" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">askari</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">اه پس مجبور شدم رفتم در مکتبی خرد ضابط ها</item>
+            <item type="gls" lang="en">Then I was obliged to go the soldiering school.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="124060" abg:annotation-end="126180">
+            <item type="segnum" lang="en">50</item>
+            <words>
+              <word abg:id="1557" abg:approval-status="true">
+                <item abg:id="3144" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">akwakəm</item>
+              </word>
+              <word abg:id="1500" abg:approval-status="true">
+                <item abg:id="3045" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">fɑrɛɣ</item>
+              </word>
+              <word abg:id="1500" abg:approval-status="true">
+                <item abg:id="3045" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">fɑrɛɣ</item>
+              </word>
+              <word abg:id="227" abg:approval-status="true">
+                <item abg:id="3157" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">ʃʊdət</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">واز امونجا یعنی فارغ شدم</item>
+            <item type="gls" lang="en">I graduated from there.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="126520" abg:annotation-end="128490">
+            <item type="segnum" lang="en">51</item>
+            <words>
+              <word abg:id="3504" abg:approval-status="true">
+                <item abg:id="15381" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">pə</item>
+              </word>
+              <word abg:id="1506" abg:approval-status="true">
+                <item abg:id="6834" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">ʃaqɛ</item>
+              </word>
+              <word abg:id="3529" abg:approval-status="true">
+                <item abg:id="15727" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">xorzɑbɛtɑ</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">درشق صاحب منصبها</item>
+            <item type="gls" lang="en">From the department of petty officers.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="129240" abg:annotation-end="132740">
+            <item type="segnum" lang="en">52</item>
+            <words>
+              <word abg:id="871" abg:approval-status="true">
+                <item abg:id="3033" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">se</item>
+              </word>
+              <word abg:id="670" abg:approval-status="true">
+                <item abg:id="3116" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">sɑləm</item>
+              </word>
+              <word abg:id="13" abg:approval-status="true">
+                <item abg:id="3074" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">wɑk</item>
+              </word>
+              <word abg:id="379" abg:approval-status="true">
+                <item abg:id="3150" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">wazifa</item>
+              </word>
+              <word abg:id="1190" abg:approval-status="true">
+                <item abg:id="3151" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">ɛdʒrɑ</item>
+              </word>
+              <word abg:id="22" abg:approval-status="true">
+                <item abg:id="3061" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">kəl</item>
+              </word>
+              <word abg:id="3504" abg:approval-status="true">
+                <item abg:id="15381" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">pə</item>
+              </word>
+              <word abg:id="1561" abg:approval-status="true">
+                <item abg:id="3152" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">mahtɑb</item>
+              </word>
+              <word abg:id="1562" abg:approval-status="true">
+                <item abg:id="3153" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">qala</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">سه سا ل درآنجاوظیفه اجرا کردم یعنی در   مهتاب قلعه</item>
+            <item type="gls" lang="en">I performed an office for three years in Mahtab Qala.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="132940" abg:annotation-end="135600">
+            <item type="segnum" lang="en">53</item>
+            <words>
+              <word abg:id="1563" abg:approval-status="true">
+                <item abg:id="3154" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">bɛlɑxɛra</item>
+              </word>
+              <word abg:id="1564" abg:approval-status="true">
+                <item abg:id="3155" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">sɑɛb</item>
+              </word>
+              <word abg:id="1565" abg:approval-status="true">
+                <item abg:id="3156" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">mansabəm</item>
+              </word>
+              <word abg:id="199" abg:approval-status="true">
+                <item abg:id="3046" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">ʃʊd</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">بالا خره صاحب منصب شدم</item>
+            <item type="gls" lang="en">Finally I attained a high office.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="136020" abg:annotation-end="139300">
+            <item type="segnum" lang="en">54</item>
+            <words>
+              <word abg:id="1564" abg:approval-status="true">
+                <item abg:id="3155" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">sɑɛb</item>
+              </word>
+              <word abg:id="1565" abg:approval-status="true">
+                <item abg:id="3156" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">mansabəm</item>
+              </word>
+              <word abg:id="227" abg:approval-status="true">
+                <item abg:id="3157" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">ʃʊdət</item>
+              </word>
+              <word abg:id="679" abg:approval-status="true">
+                <item abg:id="3248" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">ɑɣadəm</item>
+              </word>
+              <word abg:id="1567" abg:approval-status="true">
+                <item abg:id="3159" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">tabdiləm</item>
+              </word>
+              <word abg:id="22" abg:approval-status="true">
+                <item abg:id="3061" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">kəl</item>
+              </word>
+              <word abg:id="1568" abg:approval-status="true">
+                <item abg:id="3160" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">xat</item>
+              </word>
+              <word abg:id="454" abg:approval-status="true">
+                <item abg:id="3161" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">tar</item>
+              </word>
+              <word abg:id="1569" abg:approval-status="true">
+                <item abg:id="3162" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">faizɑbɑd</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">صاحب منصب شدم آمدم تبدیل کردم خودمه به فض آباد</item>
+            <item type="gls" lang="en">I obtained a high office, then came and change to Faizabad itself.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="139790" abg:annotation-end="143790">
+            <item type="segnum" lang="en">55</item>
+            <words>
+              <word abg:id="472" abg:approval-status="true">
+                <item abg:id="3115" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">du</item>
+              </word>
+              <word abg:id="670" abg:approval-status="true">
+                <item abg:id="3116" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">sɑləm</item>
+              </word>
+              <word abg:id="3504" abg:approval-status="true">
+                <item abg:id="15381" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">pə</item>
+              </word>
+              <word abg:id="1569" abg:approval-status="true">
+                <item abg:id="3162" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">faizɑbɑd</item>
+              </word>
+              <word abg:id="659" abg:approval-status="true">
+                <item abg:id="3231" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">fərɛnd</item>
+              </word>
+              <word abg:id="146" abg:approval-status="true">
+                <item abg:id="3164" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">bad</item>
+              </word>
+              <word abg:id="100" abg:approval-status="true">
+                <item abg:id="3108" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">az</item>
+              </word>
+              <word abg:id="584" abg:approval-status="true">
+                <item abg:id="3139" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">jak</item>
+              </word>
+              <word abg:id="670" abg:approval-status="true">
+                <item abg:id="3116" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">sɑləm</item>
+              </word>
+              <word abg:id="669" abg:approval-status="true">
+                <item abg:id="3165" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">toɣd</item>
+              </word>
+              <word abg:id="3503" abg:approval-status="true">
+                <item abg:id="15379" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">pə</item>
+              </word>
+              <word abg:id="1571" abg:approval-status="true">
+                <item abg:id="3166" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">nɑrin</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">دوسال درفیض آبادماندم بعدازیک سال رفتم به نارین</item>
+            <item type="gls" lang="en">I stayed for two years in Faizabad. Then I went for one year to Narin.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="144180" abg:annotation-end="147880">
+            <item type="segnum" lang="en">56</item>
+            <words>
+              <word abg:id="1493" abg:approval-status="true">
+                <item abg:id="3027" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">sezda</item>
+              </word>
+              <word abg:id="670" abg:approval-status="true">
+                <item abg:id="3116" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">sɑləm</item>
+              </word>
+              <word abg:id="669" abg:approval-status="true">
+                <item abg:id="3165" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">toɣd</item>
+              </word>
+              <word abg:id="1572" abg:approval-status="true">
+                <item abg:id="3167" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">paktijɑ</item>
+              </word>
+              <word abg:id="1493" abg:approval-status="true">
+                <item abg:id="3027" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">sezda</item>
+              </word>
+              <word abg:id="670" abg:approval-status="true">
+                <item abg:id="3116" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">sɑləm</item>
+              </word>
+              <word abg:id="669" abg:approval-status="true">
+                <item abg:id="3165" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">toɣd</item>
+              </word>
+              <word abg:id="1573" abg:approval-status="true">
+                <item abg:id="3168" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">mazɑrɛ</item>
+              </word>
+              <word abg:id="1574" abg:approval-status="true">
+                <item abg:id="3169" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">ʃarif</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">سیزده سال رفتم پکتیا سیزده سال رفتم مزار شریف</item>
+            <item type="gls" lang="en">I went to Pakia for thirteen years. I went to Mazar-e Sharif for eleven years.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="148360" abg:annotation-end="151240">
+            <item type="segnum" lang="en">57</item>
+            <words>
+              <word abg:id="146" abg:approval-status="true">
+                <item abg:id="3164" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">bad</item>
+              </word>
+              <word abg:id="33" abg:approval-status="true">
+                <item abg:id="3043" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">tsə</item>
+              </word>
+              <word abg:id="1573" abg:approval-status="true">
+                <item abg:id="3168" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">mazɑrɛ</item>
+              </word>
+              <word abg:id="1574" abg:approval-status="true">
+                <item abg:id="3169" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">ʃarif</item>
+              </word>
+              <word abg:id="1466" abg:approval-status="true">
+                <item abg:id="3170" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">aft</item>
+              </word>
+              <word abg:id="639" abg:approval-status="true">
+                <item abg:id="3223" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">sɑl</item>
+              </word>
+              <word abg:id="335" abg:approval-status="true">
+                <item abg:id="3171" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">dəv</item>
+              </word>
+              <word abg:id="3504" abg:approval-status="true">
+                <item abg:id="15381" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">pə</item>
+              </word>
+              <word abg:id="1575" abg:approval-status="true">
+                <item abg:id="3172" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">bahɑrakəm</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">اه بعد از مزار شریف هفت سال باز به بهارک هم</item>
+            <item type="gls" lang="en">After Mazar-e Sharif I went to Baharak for seven years.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="151610" abg:annotation-end="153100">
+            <item type="segnum" lang="en">58</item>
+            <words>
+              <word abg:id="1576" abg:approval-status="true">
+                <item abg:id="3173" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">ɑmirɛ</item>
+              </word>
+              <word abg:id="1577" abg:approval-status="true">
+                <item abg:id="3174" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">tamirɑt</item>
+              </word>
+              <word abg:id="1578" abg:approval-status="true">
+                <item abg:id="3175" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">vədət</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">آمیری تعمیرات بودم</item>
+            <item type="gls" lang="en">I was the boss of buildings.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="153480" abg:annotation-end="156890">
+            <item type="segnum" lang="en">59</item>
+            <words>
+              <word abg:id="1542" abg:approval-status="true">
+                <item abg:id="3117" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">wədakəm</item>
+              </word>
+              <word abg:id="1576" abg:approval-status="true">
+                <item abg:id="3173" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">ɑmirɛ</item>
+              </word>
+              <word abg:id="1581" abg:approval-status="true">
+                <item abg:id="3179" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">tamirɑte</item>
+              </word>
+              <word abg:id="1582" abg:approval-status="true">
+                <item abg:id="3180" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">qulɛ</item>
+              </word>
+              <word abg:id="1583" abg:approval-status="true">
+                <item abg:id="3181" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">ʊrduje</item>
+              </word>
+              <word abg:id="1572" abg:approval-status="true">
+                <item abg:id="3167" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">paktijɑ</item>
+              </word>
+              <word abg:id="212" abg:approval-status="true">
+                <item abg:id="3099" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">vəd</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">و درامونجا هم آمیری تعمیراتی قول اردوی پکتیا بودم</item>
+            <item type="gls" lang="en">There I was the boss of building for the entire army of Paktia.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="157490" abg:annotation-end="160510">
+            <item type="segnum" lang="en">60</item>
+            <words>
+              <word abg:id="33" abg:approval-status="true">
+                <item abg:id="3043" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">tsə</item>
+              </word>
+              <word abg:id="1572" abg:approval-status="true">
+                <item abg:id="3167" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">paktijɑ</item>
+              </word>
+              <word abg:id="335" abg:approval-status="true">
+                <item abg:id="3171" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">dəv</item>
+              </word>
+              <word abg:id="1576" abg:approval-status="true">
+                <item abg:id="3173" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">ɑmirɛ</item>
+              </word>
+              <word abg:id="1584" abg:approval-status="true">
+                <item abg:id="3182" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">sinɛmɑm</item>
+              </word>
+              <word abg:id="199" abg:approval-status="true">
+                <item abg:id="3046" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">ʃʊd</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">از پکتیا باز آمیری سینما شدم</item>
+            <item type="gls" lang="en">From Paktia, I then became boss of the cinema.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="160990" abg:annotation-end="164460">
+            <item type="segnum" lang="en">61</item>
+            <words>
+              <word abg:id="1576" abg:approval-status="true">
+                <item abg:id="3173" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">ɑmirɛ</item>
+              </word>
+              <word abg:id="1585" abg:approval-status="true">
+                <item abg:id="3183" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">sinɛmɑ</item>
+              </word>
+              <word abg:id="1157" abg:approval-status="true">
+                <item abg:id="3184" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">xɛlɑs</item>
+              </word>
+              <word abg:id="227" abg:approval-status="true">
+                <item abg:id="3157" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">ʃʊdət</item>
+              </word>
+              <word abg:id="673" abg:approval-status="true">
+                <item abg:id="3185" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">dəvəm</item>
+              </word>
+              <word abg:id="669" abg:approval-status="true">
+                <item abg:id="3165" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">toɣd</item>
+              </word>
+              <word abg:id="3503" abg:approval-status="true">
+                <item abg:id="15379" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">pə</item>
+              </word>
+              <word abg:id="1396" abg:approval-status="true">
+                <item abg:id="3187" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">tʃiza</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">اه آمیری سینماخلاص شد باز رفتم به چیز</item>
+            <item type="gls" lang="en">I finished being boss of the cinema then I went to... what...</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="164960" abg:annotation-end="166370">
+            <item type="segnum" lang="en">62</item>
+            <words>
+              <word abg:id="1587" abg:approval-status="true">
+                <item abg:id="3188" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">qwe</item>
+              </word>
+              <word abg:id="583" abg:approval-status="true">
+                <item abg:id="3189" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">kɑr</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">در قوه کار</item>
+            <item type="gls" lang="en">Qway Kar</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="166970" abg:annotation-end="169900">
+            <item type="segnum" lang="en">63</item>
+            <words>
+              <word abg:id="3763" abg:approval-status="true">
+                <item abg:id="16240" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">dʒabranɑn</item>
+              </word>
+              <word abg:id="195" abg:approval-status="true">
+                <item abg:id="3192" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">dud</item>
+              </word>
+              <word abg:id="25" abg:approval-status="true">
+                <item abg:id="5171" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">makɑn</item>
+              </word>
+              <word abg:id="195" abg:approval-status="true">
+                <item abg:id="3192" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">dud</item>
+              </word>
+              <word abg:id="3503" abg:approval-status="true">
+                <item abg:id="15379" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">pə</item>
+              </word>
+              <word abg:id="1587" abg:approval-status="true">
+                <item abg:id="6849" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">qawe</item>
+              </word>
+              <word abg:id="583" abg:approval-status="true">
+                <item abg:id="3189" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">kɑr</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">جوراً مره  دادن به قوه کار</item>
+            <item type="gls" lang="en">They forced me, they gave me to Qway Kar.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="170120" abg:annotation-end="171770">
+            <item type="segnum" lang="en">64</item>
+            <words>
+              <word abg:id="1590" abg:approval-status="true">
+                <item abg:id="3194" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">aʃrɑr</item>
+              </word>
+              <word abg:id="797" abg:approval-status="true">
+                <item abg:id="3195" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">gʊl</item>
+              </word>
+              <word abg:id="1130" abg:approval-status="true">
+                <item abg:id="4245" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">ti</item>
+              </word>
+              <word abg:id="307" abg:approval-status="true">
+                <item abg:id="3841" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">nɑ</item>
+              </word>
+              <word abg:id="1591" abg:approval-status="true">
+                <item abg:id="3196" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">dusti</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">یعنی همرای  اشرارتو دست داری</item>
+            <item type="gls" lang="en">You're joined up with Ashrar.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="172340" abg:annotation-end="175710">
+            <item type="segnum" lang="en">65</item>
+            <words>
+              <word abg:id="1493" abg:approval-status="true">
+                <item abg:id="3027" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">sezda</item>
+              </word>
+              <word abg:id="670" abg:approval-status="true">
+                <item abg:id="3116" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">sɑləm</item>
+              </word>
+              <word abg:id="146" abg:approval-status="true">
+                <item abg:id="16418" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">bʊd</item>
+              </word>
+              <word abg:id="407" abg:approval-status="true">
+                <item abg:id="4147" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">av</item>
+              </word>
+              <word abg:id="3504" abg:approval-status="true">
+                <item abg:id="15381" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">pə</item>
+              </word>
+              <word abg:id="1587" abg:approval-status="true">
+                <item abg:id="3188" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">qwe</item>
+              </word>
+              <word abg:id="583" abg:approval-status="true">
+                <item abg:id="3189" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">kɑr</item>
+              </word>
+              <word abg:id="3504" abg:approval-status="true">
+                <item abg:id="15381" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">pə</item>
+              </word>
+              <word abg:id="1573" abg:approval-status="true">
+                <item abg:id="3168" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">mazɑrɛ</item>
+              </word>
+              <word abg:id="1574" abg:approval-status="true">
+                <item abg:id="3169" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">ʃarif</item>
+              </word>
+              <word abg:id="212" abg:approval-status="true">
+                <item abg:id="3099" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">vəd</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">سیزده سال باز به قوه کاربه مزارشریف بودم</item>
+            <item type="gls" lang="en">After thirteen years in Qway Kar I was in Mazar-e Sharif.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="176260" abg:annotation-end="178980">
+            <item type="segnum" lang="en">66</item>
+            <words>
+              <word abg:id="2361" abg:approval-status="true">
+                <item abg:id="6789" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">badan</item>
+              </word>
+              <word abg:id="40" abg:approval-status="true">
+                <item abg:id="3129" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">mə</item>
+              </word>
+              <word abg:id="379" abg:approval-status="true">
+                <item abg:id="3150" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">wazifa</item>
+              </word>
+              <word abg:id="1304" abg:approval-status="true">
+                <item abg:id="3199" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">xatɛm</item>
+              </word>
+              <word abg:id="199" abg:approval-status="true">
+                <item abg:id="3046" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">ʃʊd</item>
+              </word>
+              <word abg:id="679" abg:approval-status="true">
+                <item abg:id="3248" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">ɑɣadəm</item>
+              </word>
+              <word abg:id="80" abg:approval-status="true">
+                <item abg:id="3106" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">xe</item>
+              </word>
+              <word abg:id="491" abg:approval-status="true">
+                <item abg:id="3201" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">xɑn</item>
+              </word>
+              <word abg:id="179" abg:approval-status="true">
+                <item abg:id="3202" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">bɑ</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">بعداً وظیفه مه ختم شدآمدم به خانه خودم</item>
+            <item type="gls" lang="en">Then my work finished. I came back to my house.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="179310" abg:annotation-end="181180">
+            <item type="segnum" lang="en">67</item>
+            <words>
+              <word abg:id="1563" abg:approval-status="true">
+                <item abg:id="3154" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">bɛlɑxɛra</item>
+              </word>
+              <word abg:id="25" abg:approval-status="true">
+                <item abg:id="5171" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">makɑn</item>
+              </word>
+              <word abg:id="1594" abg:approval-status="true">
+                <item abg:id="3203" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">taqɑwʊt</item>
+              </word>
+              <word abg:id="195" abg:approval-status="true">
+                <item abg:id="3192" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">dud</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">بالا خره مره  تقاوت داد</item>
+            <item type="gls" lang="en">Finally they gave me a retirement.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="181590" abg:annotation-end="183800">
+            <item type="segnum" lang="en">68</item>
+            <words>
+              <word abg:id="3215" abg:approval-status="true">
+                <item abg:id="5103" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">i</item>
+              </word>
+              <word abg:id="424" abg:approval-status="true">
+                <item abg:id="3205" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">pandʒ</item>
+              </word>
+              <word abg:id="639" abg:approval-status="true">
+                <item abg:id="3223" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">sɑl</item>
+              </word>
+              <word abg:id="199" abg:approval-status="true">
+                <item abg:id="3046" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">ʃʊd</item>
+              </word>
+              <word abg:id="3105" abg:approval-status="true">
+                <item abg:id="4212" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">az</item>
+              </word>
+              <word abg:id="3111" abg:approval-status="true">
+                <item abg:id="16174" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">dza</item>
+              </word>
+              <word abg:id="3504" abg:approval-status="true">
+                <item abg:id="15381" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">pə</item>
+              </word>
+              <word abg:id="80" abg:approval-status="true">
+                <item abg:id="3106" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">xe</item>
+              </word>
+              <word abg:id="430" abg:approval-status="true">
+                <item abg:id="3208" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">xɑnən</item>
+              </word>
+              <word abg:id="1596" abg:approval-status="true">
+                <item abg:id="3209" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">bekɑr</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">اه پنج سال شد مه در خانه خود بیکارهستم</item>
+            <item type="gls" lang="en">And it makes five years that I'm in my own house, unemployed.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="186000" abg:annotation-end="187380">
+            <item type="segnum" lang="en">69</item>
+            <words>
+              <word abg:id="1597" abg:approval-status="true">
+                <item abg:id="3210" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">wamin</item>
+              </word>
+              <word abg:id="3" abg:approval-status="true">
+                <item abg:id="3211" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">alɑ</item>
+              </word>
+              <word abg:id="889" abg:approval-status="true">
+                <item abg:id="3212" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">tawfiq</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">ومین الله توفیق</item>
+            <item type="gls" lang="en">And Allah is merciful.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <phrase abg:annotation-start="187930" abg:annotation-end="189930">
+            <item type="segnum" lang="en">70</item>
+            <words>
+              <word abg:id="3138" abg:approval-status="true">
+                <item abg:id="4369" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">am</item>
+              </word>
+              <word abg:id="1598" abg:approval-status="true">
+                <item abg:id="3213" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">sargozaʃtɛ</item>
+              </word>
+              <word abg:id="686" abg:approval-status="true">
+                <item abg:id="3214" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">zɛndagi</item>
+              </word>
+              <word abg:id="31" abg:approval-status="true">
+                <item abg:id="3017" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">mən</item>
+              </word>
+              <word abg:id="212" abg:approval-status="true">
+                <item abg:id="3099" type="txt" lang="isk-Qaaa-AF-fonipa-x-Zipa">vəd</item>
+              </word>
+            </words>
+            <item type="gls" lang="prd-Arab">این بود سر گذ شت زنده گی  من </item>
+            <item type="gls" lang="en">This was a summary of my life.</item>
+          </phrase>
+        </phrases>
+      </paragraph>
+    </paragraphs>
+    <languages>
+      <language lang="prd-Arab" font="Scheherazade" abg:font-size="22" RightToLeft="true"/>
+      <language lang="en" font="Times New Roman" abg:font-size="12"/>
+      <language lang="isk-Qaaa-AF-fonipa-x-Zipa" font="Times New Roman" abg:font-size="12"/>
+      <language lang="isk-Arab-AF" font="Scheherazade" abg:font-size="22" RightToLeft="true" abg:is-baseline="true"/>
+    </languages>
+  </interlinear-text>
+</document>

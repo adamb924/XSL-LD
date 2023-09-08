@@ -1,7 +1,7 @@
 # eaf-blanks.xsl
 
 ## Introduction
-This XSL transformation checks an EAF file for any blanks intervals, and prints a list of the annotation ids of blank intervals. (This can often correspond to interval numbers.)
+This XSL transformation checks an EAF file for any blanks intervals, and prints a list of the annotation ids of blank intervals. (This can often correspond to interval numbers.) If there are no blanks then there is no output; or the output is empty.
 
 ## Parameters
 There are no parameters.
